@@ -5,7 +5,7 @@ class Base
     public:
     Base()
     {
-
+         int a=10;
     }
 };
 int main()
